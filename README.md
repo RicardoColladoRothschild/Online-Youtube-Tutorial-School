@@ -12,3 +12,19 @@ Those courses has an extensive class, each class might be from 15 to 20 minutes,
 
 Learning path are view as card, those card when openened show you a list of course. 
 Once the user select one of these course, they will be able to see all of the clasess that belongs to this specific (LearningPath - course), as a long list of card (10 to be specific) that can help the user with a topic.
+
+### Learning Paths Management:
+Users can easily create, edit, and delete their Learning Paths.
+Pre-built Learning Paths are available for users to explore.
+
+### Courses Management:
+Users can create, edit, and delete courses, adhering to the maximum of 10 classes.
+
+### Class Content:
+Users can upload and manage video content for each class.
+Classes have a duration of 15 to 20 minutes.
+
+
+## User Interface:
+Learning Paths and course cards are visually appealing.
+Navigation through classes is intuitive and user-friendly.
