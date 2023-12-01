@@ -24,7 +24,6 @@ Users can create, edit, and delete courses, adhering to the maximum of 10 classe
 Users can upload and manage video content for each class.
 Classes have a duration of 15 to 20 minutes.
 
-
 ## User Interface:
 Learning Paths and course cards are visually appealing.
 Navigation through classes is intuitive and user-friendly.
